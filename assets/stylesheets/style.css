@@ -1,0 +1,45 @@
+html,body
+{
+    overflow-x: hidden; 
+}
+
+p{
+    font-size:20px;
+}
+
+section
+{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.CenteredSection
+ {
+     margin: auto;
+     width: 70%;
+     padding-bottom: 80px;
+ }
+
+.CenteredSection-noPad
+{
+    margin: auto;
+    width: 70%;
+}
+
+.ProjectSection
+{
+    margin-top: 100px;
+    width: 100%;
+    height: auto;
+}
+
+.sectionBackground
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    color:white;
+}
+
