@@ -50,3 +50,27 @@ section
   font-size: 0.75rem;
   color: #93c5fd;
 }
+
+.gh-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.75rem;
+  color: #94a3b8;
+  text-decoration: none;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  padding: 5px 12px;
+}
+
+.gh-link:hover {
+  border-color: rgba(99, 179, 237, 0.4);
+  color: #93c5fd;
+}
+
+.gh-icon {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
