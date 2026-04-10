@@ -43,3 +43,10 @@ section
     color:white;
 }
 
+.skill-tag {
+  border: 1px solid rgba(99, 179, 237, 0.4);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  color: #93c5fd;
+}
